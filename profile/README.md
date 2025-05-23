@@ -1,12 +1,3 @@
-## Hi there 👋
+# SPBOSS
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+कल्याण मटका कल्याण चार्ट कल्याण ओपन कल्याण बाजार कल्याण फाइनल कल्याण चार्ट स्कीम कल्याण चार्ट मुंबई कल्याण चार्ट मटका कल्याण चार्ट नाइट कल्याण चार्ट महाराष्ट्र कल्याण चार्ट पैनल कल्याण चार्ट ओपन क्लोज जोड़ी
